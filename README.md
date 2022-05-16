@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aurroberts
+- 👋 Hi, I’m @aurroberts.
 - 👀 I’m interested in lots of things! Feel free to ask :).
 - 🌱 I’m currently learning data analytics, mainly (SQL, Excel, Tableau, R, and Python). 
 - 💞️ I’m looking to collaborate on projects that explore data analytics. I'm in the process of transitioning from being an educator to being a data analyst.
