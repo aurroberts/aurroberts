@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @aurroberts.
-- 👀 I’m interested in travel, food, books, and video games. :)
-- 🌱 I’m currently building my skillset on data analytics (SQL, Excel, Tableau, R, and Python). 
-- 💞️ I’m looking to work at a company utilizing my data analysis skills. I'm in the process of transitioning from being an educator to being a data analyst.
+Former educator transitioning into data analytics with experience using SQL, Excel, and educational data to uncover insights and improve outcomes. Strong communicator and problem-solver with a passion for making data-driven decisions that drive performance. 
+
 - 📫 How to reach me - By email: audrarroberts@gmail.com
 
 <!---
