@@ -1,4 +1,4 @@
-I'm an educator turned data engineer in training with a passion for turning messy data into clean, reliable pipelines that power real-world decisions. With a foundation in SQL, Python, Snowflake, and Airflow, I’ve transitioned from analyzing student outcomes to building data infrastructure that supports scalable analytics.
+I'm a data analyst/data engineer with a passion for turning messy data into clean, reliable pipelines that power real-world decisions. With a foundation in SQL, Python, Snowflake, and Airflow, I’ve transitioned from analyzing student outcomes to building data infrastructure that supports scalable analytics.
 
 I am actively building cloud-based projects that include ingesting, transforming, and modeling large datasets. I bring to data engineering the same skills that made me successful in the classroom: problem-solving, communication, and a drive to constantly improve through feedback and iteration.
 
