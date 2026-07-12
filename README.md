@@ -9,7 +9,9 @@ I am actively building product analytics projects that include auditing, cleanin
 - Cohort Analysis (planned)
 - A/B Testing (planned)
 
+
 I'm seeking opportunities in Data Analytics or Product Analytics where I can contribute, continue learning, and grow as part of a collaborative team. Let’s connect!
+
 📫 **Email:** audrarroberts@gmail.com
 
 <!---
